@@ -25,7 +25,7 @@ This is a practice project where I created a responsive Restaurant Website using
 
 ## Demo
 
-![Preview Image](https://github.com/VinayNoogler000/Restaurant-Website/blob/main/images/Preview.png)
+![Preview](https://drive.google.com/file/d/1PzDUxxeGNKdpXsUSu2SN_ClIW8H0v0Sx/view?usp=sharing)
 
 ## Installation
 
